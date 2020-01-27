@@ -1,0 +1,8 @@
+/.idea
+
+# Default ignored files
+/workspace.xml
+
+/coverage
+
+.gitignore

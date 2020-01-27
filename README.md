@@ -1,4 +1,4 @@
-# Log Analyser fo Pension Project
+# Pension Project Log Analyser
 
 ## RUN
 
